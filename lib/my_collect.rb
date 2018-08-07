@@ -1,4 +1,4 @@
-def collect(array)
+def my_collect(array)
   result = []
   if block_given?
     i = 0 
